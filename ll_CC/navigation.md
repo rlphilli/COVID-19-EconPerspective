@@ -30,9 +30,8 @@
 
 <!-- A more complex navigation example: ----------------------------------------
  -->
-[Menu Item 1]()
+  * Heading1
   * [Richard Lanas Phillips](pages/Richard.md)
-  * [Richard Lanas Phillips II](Richard.md)
   - - - -
   * # SubMenu Heading 2
   * [SubMenu Item 3](pages/subitem3.md)
