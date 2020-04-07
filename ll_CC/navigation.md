@@ -34,7 +34,6 @@
 
   * [Richard](pages/Richard.md)
 
-- - - -
 
 
 [Projects]()
