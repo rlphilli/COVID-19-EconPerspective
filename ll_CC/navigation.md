@@ -32,7 +32,7 @@
  -->
 [Menu Item 1]()
 
-  * [Richard](pages/Richard.md)
+  [Richard](pages/Richard.md)
 
 
 
