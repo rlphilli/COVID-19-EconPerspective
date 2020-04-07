@@ -1,4 +1,4 @@
-# Richard Phillips (richard@cs.cornell.edu)
+# Richard Phillips ('name' @cs.cornell.edu)
 
 ## Research areas
 

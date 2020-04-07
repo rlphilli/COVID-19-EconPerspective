@@ -6,7 +6,7 @@
 
 The goal of this project is to
 ## Current Contributors 
-
+ - 
  - Jane Doe
  - Elva Russ
  - Lauren Ipsum 
