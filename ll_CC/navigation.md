@@ -35,10 +35,9 @@
   [Richard](pages/Richard.md)
 
 
+[Projects]()
 
-[Menu Item 2](pages/item2.md)
-
-[Menu Item 3](pages/item3.md)
+  [Richard](pages/projectidea.md)
 
 ---------------------------------------------------------------------------- -->
 
