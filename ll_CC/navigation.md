@@ -33,8 +33,8 @@
 [Menu Item 1]()
 
   * # Researchers
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+  * [Richard Lanas Phillips](pages/Richard.md)
+  * [Richard Lanas Phillips II](Richard.md)
   - - - -
   * # SubMenu Heading 2
   * [SubMenu Item 3](pages/subitem3.md)
