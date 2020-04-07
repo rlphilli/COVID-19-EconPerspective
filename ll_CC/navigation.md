@@ -31,6 +31,7 @@
 <!-- A more complex navigation example: ----------------------------------------
  -->
 [Researchers]()
+  * # SubMenu Heading 1
   * [Richard](pages/Richard.md)
 
 
