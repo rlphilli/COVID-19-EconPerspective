@@ -9,4 +9,4 @@ The goal of this project is to
 
  - Jane Doe
  - Elva Russ
- - Lauren Ipsum
+ - Lauren Ipsum [index.html](../index.html) 

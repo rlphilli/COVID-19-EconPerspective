@@ -20,7 +20,10 @@
   -->
 
 [About](pages/about.md)
-[Download](pages/download.md)
+# Researchers
+[Richard Lanas Phillips](pages/Richard.md)
+#Projects
+[Example Project](pages/projectidea.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
