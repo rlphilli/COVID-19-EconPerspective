@@ -31,13 +31,11 @@
 <!-- A more complex navigation example: ----------------------------------------
  -->
 [Researchers]()
-
   * [Richard](pages/Richard.md)
 
 
 
 [Projects]()
-
   * [Example Project](pages/projectidea.md)
 
 ---------------------------------------------------------------------------- -->
