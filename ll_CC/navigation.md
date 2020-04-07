@@ -30,7 +30,7 @@
 
 <!-- A more complex navigation example: ----------------------------------------
  -->
-[Menu Item 1]()
+[Researchers]()
 
   [Richard](pages/Richard.md)
 
