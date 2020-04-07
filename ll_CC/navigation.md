@@ -32,12 +32,12 @@
  -->
 [Researchers]()
 
-  [Richard](pages/Richard.md)
+  * [Richard](pages/Richard.md)
 
 
 [Projects]()
 
-  [Richard](pages/projectidea.md)
+  * [Richard](pages/projectidea.md)
 
 ---------------------------------------------------------------------------- -->
 
