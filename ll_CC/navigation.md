@@ -32,12 +32,8 @@
  -->
   * Heading1
   * [Richard Lanas Phillips](pages/Richard.md)
-  - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
+
+
 
 [Menu Item 2](pages/item2.md)
 
