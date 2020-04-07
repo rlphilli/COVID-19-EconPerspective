@@ -34,10 +34,12 @@
 
   * [Richard](pages/Richard.md)
 
+- - - -
+
 
 [Projects]()
 
-  * [Richard](pages/projectidea.md)
+  * [Example Project](pages/projectidea.md)
 
 ---------------------------------------------------------------------------- -->
 
