@@ -19,7 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Menu Item 1]()
+<!-- [Menu Item 1]()
 
 [About](pages/about.md)
 * # Researchers
@@ -29,10 +29,10 @@
 * [Example Project](pages/projectidea.md)
 
 <!-- A more complex navigation example: ----------------------------------------
-
+ -->
 [Menu Item 1]()
 
-  * # SubMenu Heading 1
+  * # Researchers
   * [SubMenu Item 1](pages/subitem1.md)
   * [SubMenu Item 2](pages/subitem2.md)
   - - - -
