@@ -31,8 +31,6 @@
 <!-- A more complex navigation example: ----------------------------------------
  -->
 [Menu Item 1]()
-
-  * # Researchers
   * [Richard Lanas Phillips](pages/Richard.md)
   * [Richard Lanas Phillips II](Richard.md)
   - - - -
